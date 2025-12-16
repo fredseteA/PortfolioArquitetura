@@ -1,12 +1,25 @@
-# React + Vite
+🇧🇷 Versão em Português
+🏛️ Site Portfólio de Arquitetura
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido durante meu curso de Desenvolvimento Front-End, com o objetivo de simular um site institucional de arquitetura voltado à apresentação de projetos profissionais.
 
-Currently, two official plugins are available:
+A aplicação consome uma API responsável pelo envio das imagens dos projetos, permitindo a exibição dinâmica do portfólio. O site conta ainda com controle de idioma (português e inglês), também integrado à API, que fornece os textos conforme o idioma selecionado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto foi estruturado com um fluxo de páginas bem definido, permitindo a navegação entre as seções do site de forma intuitiva, simulando a experiência de um site real de arquitetura.
 
-## Expanding the ESLint configuration
+🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O site foi desenvolvido utilizando React, Vite e JavaScript, garantindo uma aplicação moderna, leve e com carregamento rápido.
+
+🇺🇸 English Version
+🏛️ Architecture Portfolio Website
+
+This project was developed during my Front-End Development course to simulate an institutional architecture website focused on showcasing professional projects.
+
+The application consumes an API that provides project images, enabling dynamic portfolio rendering. The website also includes language switching (Portuguese and English), integrated with the API to deliver localized content based on the selected language.
+
+The project is structured with a clear page navigation flow, allowing users to move intuitively between different sections of the site, simulating a real-world architecture website experience.
+
+🛠️ Technologies Used
+
+The website was built using React, Vite, and JavaScript, delivering a modern, lightweight, and fast-loading application.
